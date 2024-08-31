@@ -38,12 +38,6 @@ This project involves building a machine learning model to classify mushrooms as
 7. **Submission**:
    - Predicted test set labels and prepared a submission file.
 
-## Models Used
-
-- **XGBoost Classifier**
-- **CatBoost Classifier**
-- **Voting Classifier**: with XGB and CAT
-
 ## Results
 
 The models were evaluated using accuracy, and the ensemble approach provided a robust prediction on the test data.
