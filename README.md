@@ -41,8 +41,10 @@ This project involves building a machine learning model to classify mushrooms as
 ## Results
 
 The models were evaluated using accuracy, and the ensemble approach provided a robust prediction on the test data.
-The final competition was 98.359%.
+The final competition score was 98.359% which places me in the top 48%.
 
 ![image](https://github.com/user-attachments/assets/4c0ff6fa-5b56-4d8a-90a8-0a58b7347b5d)
+![image](https://github.com/user-attachments/assets/782b087a-b615-4870-8abc-975fb0507da5)
+
 
 
