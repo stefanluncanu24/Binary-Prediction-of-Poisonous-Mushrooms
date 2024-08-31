@@ -4,7 +4,7 @@ Kaggle Playground Series - Season 4, Episode 8
 ## File Explanations
 - main.ipyb - code
 - submission.csv - submission file for the competition
-- the dataset is too large to be posted here, but you can find the train and test files [here](https://www.kaggle.com/competitions/playground-series-s4e8/data).
+- the dataset is too large to be posted here, but you can find the train and test files [here](https://www.kaggle.com/competitions/playground-series-s4e8/data)
 
 ## Overview
 
