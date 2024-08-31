@@ -40,9 +40,9 @@ This project involves building a machine learning model to classify mushrooms as
 
 ## Models Used
 
-- **XGBoost Classifier**: A gradient boosting framework that uses tree-based learning algorithms.
-- **CatBoost Classifier**: A machine learning algorithm that uses gradient boosting on decision trees and handles categorical features intrinsically.
-- **Voting Classifier**: An ensemble meta-model that combines predictions from multiple models to improve accuracy.
+- **XGBoost Classifier**
+- **CatBoost Classifier**
+- **Voting Classifier**: with XGB and CAT
 
 ## Results
 
