@@ -1,6 +1,11 @@
 # Binary-Prediction-of-Poisonous-Mushrooms
 Kaggle Playground Series - Season 4, Episode 8
 
+## File Explanations
+- main.ipyb - code
+- submission.csv - submission file for the competition
+- the dataset is too large to be posted here, but you can find the train and test files [here](https://www.kaggle.com/competitions/playground-series-s4e8/data).
+
 ## Overview
 
 This project involves building a machine learning model to classify mushrooms as either edible or poisonous based on various attributes. The dataset includes features such as cap color, gill color, habitat, and more.
